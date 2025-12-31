@@ -1,5 +1,11 @@
+import "../styles/navbar.css";
+
 export default function NavBar() {
   return (
-    <div></div>
+    <nav className="main-nav">
+      <div className="nav-container">
+
+      </div>
+    </nav>
   );
 }
